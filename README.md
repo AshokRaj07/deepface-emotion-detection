@@ -79,7 +79,7 @@ Press **Q** to close the program.
 Add a screenshot of the project working here:
 
 ```markdown
-![Emotion Detection Demo](images/demo.png)
+![Emotion Detection Demo](emotion.pic)
 ```
 
 ## 🔮 Future Improvements
